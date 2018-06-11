@@ -1,0 +1,31 @@
+html {
+	background-color: #000000;
+}
+
+body {
+	width: 800px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	background-color: #FFFF00;
+	border: 5px solid black;
+		
+}
+
+body, h1, h4, li, header, h6, footer {
+	font-family: 'Arial';
+	font-size: 25px;
+	color: black;
+	
+}
+
+h4, h6 {
+	text-align: left;
+}
+
+h2{
+	text-align: center;
+}
+
+h2 {
+	text-decoration: underline;
+}
